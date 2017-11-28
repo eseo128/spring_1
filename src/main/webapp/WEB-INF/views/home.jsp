@@ -10,12 +10,13 @@
 <h1>
 	Hello world!  
 </h1>
+<img src="./etc/images/Koala.jpg">
+
 
 <P>  The time on the server is ${serverTime}. </P>
 <a href="./notice/noticeList?name=notice">Go Notice</a>
 <a href="./qna/qnaList">Go Qna</a>
 <h3>Master</h3>
-<img src="./etc/images/Koala.jpg">
 
 </body>
 </html>
